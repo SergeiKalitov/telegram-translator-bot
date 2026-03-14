@@ -26,13 +26,13 @@ pip install -r requirements.txt
 
 ```bash
 export TELEGRAM_BOT_TOKEN="ваш_токен_здесь"
-python bot.py
+python NavaTranslateBot.py
 ```
 
 Или одной командой:
 
 ```bash
-TELEGRAM_BOT_TOKEN="ваш_токен_здесь" python bot.py
+TELEGRAM_BOT_TOKEN="ваш_токен_здесь" python NavaTranslateBot.py
 ```
 
 ## Дополнительно
