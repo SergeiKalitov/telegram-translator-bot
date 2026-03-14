@@ -1,0 +1,7 @@
+python-telegram-bot==21.7
+deep-translator==1.11.4
+python-dotenv==1.0.0
+langdetect==1.0.9
+edge-tts==6.1.9
+SpeechRecognition==3.10.4
+pydub==0.25.1
